@@ -93,8 +93,8 @@
   #pic2 {
     padding: auto;
     padding-right: auto;
-    height: 10cm;
-    width: 11cm;
+    height: 9cm;
+    width: 9cm;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
@@ -215,7 +215,7 @@
   }
   .pos_div{
     position:absolute;
-    left: 62%;
+    left: 50%;
     top:2%;
     
 }
